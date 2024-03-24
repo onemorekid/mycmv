@@ -1,0 +1,16 @@
+#LearningOfferings{
+.BannerCardWrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 8px;
+}
+.BannerCard {
+    height: 368px;
+    border-radius: 6px;
+    background: #FFFFFF;
+    padding: 24px 24px;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+}
+}
